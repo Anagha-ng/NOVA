@@ -92,26 +92,6 @@ It ensured **faster transactions**, **accurate balance tracking**, and **transpa
 
 ---
 
-## ⚠️ Notes
-
-* This repository focuses on **system design, architecture, and integration logic**
-* Code files demonstrate **implementation logic and workflow understanding**
-* The project emphasizes **embedded systems integration rather than UI design**
-
----
-
 ## 👤 Author
 
 **Anagha NG**
-Embedded Systems & IoT Enthusiast
-
----
-
-If you want, next I can:
-
-* Rewrite this in a **more research / academic tone**
-* Simplify it for **non-technical reviewers**
-* Add a **“Future Improvements”** section (very good for admissions 👀)
-* Align it **exactly with your Europass CV project line**
-
-Just tell me 😄
