@@ -1,4 +1,4 @@
-# 🏦 NOVA – ESP32 RFID-Based Cashless Banking System
+# 🏦 NOVA – Next-gen Offline & Virtual Authentication system
 
 ## 📌 Project Overview
 
@@ -16,24 +16,6 @@ This project was developed to support **~60 participants** in a competition envi
 * Persist user balances locally using **EEPROM**
 * Log all transactions **in real time** to Google Sheets via REST API
 * Display transaction details instantly on an LCD for transparency
-
----
-
-## 🧠 System Architecture
-
-```
-[Banker Input]
-      ↓
-[ESP32 Controller]
-      ↓
-[RFID UID Verification]
-      ↓
-[EEPROM Balance Update]
-      ↓
-[LCD Display: Old → New Balance]
-      ↓
-[Google Sheets Logging via REST API]
-```
 
 ---
 
