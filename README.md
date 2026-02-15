@@ -36,7 +36,7 @@ This project was developed to support **~60 participants** in a competition envi
 * **EEPROM** for local balance storage
 * **HTTP / REST API** for cloud communication
 * **Google Sheets API** for transaction logging
-* **Embedded C/C++**
+* **Embedded C**
 
 ---
 
